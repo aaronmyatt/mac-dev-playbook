@@ -14,7 +14,6 @@ dotfiles_files:
   - .gitignore
   - .inputrc
   - .osx
-  - .vimrc
 
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
@@ -68,6 +67,7 @@ homebrew_cask_apps:
   - anki
   - vlc
   - jumpcut
+  - sizeup
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
