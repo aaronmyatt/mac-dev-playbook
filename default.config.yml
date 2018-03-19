@@ -29,7 +29,6 @@ homebrew_installed_packages:
   - mcrypt
   - nmap
   - node
-  - nvm
   - ssh-copy-id
   - cowsay
   - readline
@@ -37,7 +36,6 @@ homebrew_installed_packages:
   - pv
   - wget
   - wrk
-  - rbenv
   - emacs
 
 homebrew_taps:
@@ -47,7 +45,6 @@ homebrew_taps:
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
-  - docker
   - dropbox
   - firefox
   - google-chrome
